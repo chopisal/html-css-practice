@@ -23,7 +23,7 @@ body {
   width: 15px;
   height: 15px;
   border-radius: 15px;
-  /* animation: loading 1.5s infinite linear; */
+  animation: loading 1.5s infinite linear;
 }
 
 .loading::before {
